@@ -6,7 +6,7 @@ This repository contains the **lab task** files for the Fall 2025 course: Introd
 ## Task List with Zenodo DOIs
 - Lab 1 task was to install python etc. 
 - [Lab 2 tasks](https://github.com/Mughees-ud-din/Intro-to-AI-programming-with-python-lab-tasks-fall-2025/blob/main/Lab%202%20tasks.ipynb)           [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17752654.svg)](https://doi.org/10.5281/zenodo.17752654)
-- [Lab 3 tasks](https://github.com/Mughees-ud-din/Intro-to-AI-programming-with-python-lab-tasks-fall-2025/blob/main/lab%203.ipynb)(Task-02.ipynb)        [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17842300.svg)](https://doi.org/10.5281/zenodo.17842300)
+- [Lab 3 tasks](https://github.com/Mughees-ud-din/Intro-to-AI-programming-with-python-lab-tasks-fall-2025/blob/main/lab%203.ipynb)                   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17842300.svg)](https://doi.org/10.5281/zenodo.17842300)
 
 ## Guidelines
 - One notebook per lab containing all tasks  
